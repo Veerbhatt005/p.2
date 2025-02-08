@@ -1,4 +1,4 @@
-while True:
+ while True:
     l = float(input("Enter the length: "))
     b = float(input("Enter the breadth: "))
     print("\n1. Area\n2. Perimeter\n3. Exit")
